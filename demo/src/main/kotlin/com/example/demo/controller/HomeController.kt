@@ -11,5 +11,6 @@ class HomeController {
     @GetMapping("/")
     fun index(req: HttpServletRequest, res: HttpServletResponse, model: ModelMap) {
       val test = ""
+      val test2 = ""
     }
 }
