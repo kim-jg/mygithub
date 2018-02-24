@@ -10,11 +10,6 @@ import javax.servlet.http.HttpServletResponse
 class HomeController {
     @GetMapping("/")
     fun index(req: HttpServletRequest, res: HttpServletResponse, model: ModelMap) {
-        val test = ""
-        val test2 = ""
-        val rb1 = ""
-        val b3 = ""
-        val b4 = ""
-        val b5 = ""
+        val master = ""
     }
 }
