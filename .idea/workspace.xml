@@ -2,21 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5d4446c0-5ab5-4234-9f2f-9f80425c8c15" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_jetbrains_kotlin_kotlin_reflect_1_2_21.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_jetbrains_kotlin_kotlin_stdlib_1_2_21.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_jetbrains_kotlin_kotlin_stdlib_jdk7_1_2_21.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_jetbrains_kotlin_kotlin_stdlib_jdk8_1_2_21.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/modules/demo.iml" />
-      <change beforePath="$PROJECT_DIR$/.idea/artifacts/Gradle___com_example___demo_0_0_1_SNAPSHOT_war__exploded_.xml" afterPath="$PROJECT_DIR$/.idea/artifacts/Gradle___com_example___demo_0_0_1_SNAPSHOT_war__exploded_.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/demo_main.iml" afterPath="$PROJECT_DIR$/.idea/modules/demo_main.iml" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/demo_test.iml" afterPath="$PROJECT_DIR$/.idea/modules/demo_test.iml" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/demo/out/production/classes/META-INF/demo_main.kotlin_module" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/demo/out/production/classes/com/example/demo/DemoApplication.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/demo/out/production/classes/com/example/demo/DemoApplicationKt.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/demo/out/production/classes/com/example/demo/ServletInitializer.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/demo/src/main/kotlin/com/example/demo/controller/HomeController.kt" afterPath="$PROJECT_DIR$/demo/src/main/kotlin/com/example/demo/controller/HomeController.kt" />
     </list>
     <ignored path="$PROJECT_DIR$/demo/.gradle/" />
     <ignored path="$PROJECT_DIR$/demo/build/" />
@@ -1250,7 +1236,7 @@
       <updated>1519470519067</updated>
       <workItem from="1519470531066" duration="3076000" />
       <workItem from="1519473730451" duration="689000" />
-      <workItem from="1519474466686" duration="514000" />
+      <workItem from="1519474466686" duration="577000" />
     </task>
     <task id="LOCAL-00001" summary="첫번째 커밋">
       <created>1519472283294</created>
@@ -1259,11 +1245,18 @@
       <option name="project" value="LOCAL" />
       <updated>1519472283295</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="첫번째 커밋">
+      <created>1519475005293</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1519475005294</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4279000" />
+    <option name="totallyTimeSpent" value="4342000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1096" extended-state="6" />
